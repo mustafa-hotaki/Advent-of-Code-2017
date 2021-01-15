@@ -1,6 +1,6 @@
 # Advent-of-Code-2017
 
-Received 14 stars so far.
+Received 20 stars so far.
  
 The notebooks are best viewed on Google Colab, as GitHub does not render LaTeX in notebooks very well.
 
@@ -11,9 +11,9 @@ The notebooks are best viewed on Google Colab, as GitHub does not render LaTeX i
 [Day 5: A Maze of Twisty Trampolines, All Alike](https://github.com/mustafa-hotaki/Advent-of-Code-2017/blob/main/Day5/Day5.ipynb) \
 [Day 6: Memory Reallocation](https://github.com/mustafa-hotaki/Advent-of-Code-2017/blob/main/Day6/Day6.ipynb) \
 [Day 7: Recursive Circus](https://github.com/mustafa-hotaki/Advent-of-Code-2017/blob/main/Day7/Day7.ipynb) \
-[Day 8: I Heard You Like Registers](https://github.com/mustafa-hotaki/Advent-of-Code-2017/blob/main/Day8/Day8.ipynb) (Not currently uploaded or done.) \
-[Day 9: Stream Processing](https://github.com/mustafa-hotaki/Advent-of-Code-2017/blob/main/Day9/Day9.ipynb) (Not currently uploaded or done.) \
-[Day 10: Knot Hash](https://github.com/mustafa-hotaki/Advent-of-Code-2017/blob/main/Day10/Day10.ipynb) (Not currently uploaded or done.) \
+[Day 8: I Heard You Like Registers](https://github.com/mustafa-hotaki/Advent-of-Code-2017/blob/main/Day8/Day8.ipynb) \
+[Day 9: Stream Processing](https://github.com/mustafa-hotaki/Advent-of-Code-2017/blob/main/Day9/Day9.ipynb) \
+[Day 10: Knot Hash](https://github.com/mustafa-hotaki/Advent-of-Code-2017/blob/main/Day10/Day10.ipynb) \
 [Day 11: Hex Ed](https://github.com/mustafa-hotaki/Advent-of-Code-2017/blob/main/Day11/Day11.ipynb) (Not currently uploaded or done.) \
 [Day 12: Digital Plumber](https://github.com/mustafa-hotaki/Advent-of-Code-2017/blob/main/Day12/Day12.ipynb) (Not currently uploaded or done.) \
 [Day 13: Packet Scanners](https://github.com/mustafa-hotaki/Advent-of-Code-2017/blob/main/Day13/Day13.ipynb) (Not currently uploaded or done.) \
